@@ -1,7 +1,7 @@
 {
   "name": "@kwsites/promise-cache",
   "description": "Minimalist cache of un-rejected promises with configured TTL",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "author": "Steve King <steve@mydev.co>",
   "contributors": [
