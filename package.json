@@ -1,0 +1,22 @@
+{
+  "name": "@kwsites/promise-cache",
+  "description": "Minimalist cache of un-rejected promises with configured TTL",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Steve King <steve@mydev.co>",
+  "contributors": [
+    {
+      "name": "Steve King",
+      "email": "steve@mydev.co"
+    }
+  ],
+  "main": "./index",
+  "x-files": [
+    "index.js",
+    "lib/**/*.*",
+    "public/**/*.*",
+    "views/**/*.*"
+  ],
+  "license": "MIT",
+  "repository": "git://github.com/kwsites/promise-cache.git"
+}
